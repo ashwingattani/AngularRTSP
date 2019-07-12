@@ -25,7 +25,10 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": [],
+            "scripts": [
+              // "node_modules/media-stream-library/dist/media-stream-library.min.js",
+              // "node_modules/media-stream-library/examples/browser/camera/simple-player.js"
+            ],
             "es5BrowserSupport": true
           },
           "configurations": {
